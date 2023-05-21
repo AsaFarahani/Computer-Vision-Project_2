@@ -1,0 +1,24 @@
+
+- Folder "1", "2", and "3" contains the RGB image and the depth image that you have provided.
+___________________________________________________________________________________________________
+- Folder "results_image_number1",  "results_image_number2" and  "results_image_number3" contain my results for the final stage of Q2.
+
+___________________________________________________________________________________________________
+- "results_image_number1 (or 2 or 3)": In this folder you can find 6 videos 
+                                      (ZY_RGB - XZ_RGB - YX_RGB - ZY_depth - XZ_depth and ZY_depth)
+___________________________________________________________________________________________________
+
+- This question have three coding parts (part b - part c and part d)
+
+  -- Part b            -> This part is about finding the world coordinate 
+                       -> The related code is "world_coordinate.m"
+
+  -- Part c            -> "Part3_Q2_rotation.m"
+                       -> "Part3_Q2_translation.m"
+
+  -- Part d            -> I have answered these parts together.
+                       -> RGB sequence is made using this code: "moving_RGB.m"
+                       -> Depth sequence is made using this code: "moving_depthImage.m" 
+___________________________________________________________________________________________________
+  
+-- Please refer to the report for more explanation. 
